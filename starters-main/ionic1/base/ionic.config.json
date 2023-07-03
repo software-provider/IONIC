@@ -1,0 +1,11 @@
+{
+  "name": "ionic-app-base",
+  "type": "ionic1",
+  "integrations": {},
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}

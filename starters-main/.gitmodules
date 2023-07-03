@@ -1,0 +1,34 @@
+[submodule "ionic-angular/community/ionic-team/example"]
+	path = ionic-angular/community/ionic-team/example
+	url = https://github.com/ionic-team/starter-example.git
+[submodule "ionic-angular/community/danielsogl/super"]
+	path = ionic-angular/community/danielsogl/super
+	url = https://github.com/danielsogl/ionic-super-starter.git
+[submodule "ionic-angular/community/oktadeveloper/jhipster"]
+	path = ionic-angular/community/oktadeveloper/jhipster
+	url = https://github.com/oktadeveloper/ionic-jhipster-starter.git
+[submodule "angular/community/oktadeveloper/jhipster"]
+	path = angular/community/oktadeveloper/jhipster
+	url = https://github.com/oktadeveloper/ionic-jhipster-starter.git
+[submodule "angular/community/ionic-team/enterprise-tabs"]
+	path = angular/community/ionic-team/enterprise-tabs
+	url = https://github.com/ionic-team/ionic-enterprise-starter.git
+[submodule "react/community/ionic-team/portals"]
+	path = react/community/ionic-team/portals
+	url = https://github.com/ionic-team/portals-starter-react
+[submodule "angular/community/ionic-team/portals"]
+	path = angular/community/ionic-team/portals
+	url = https://github.com/ionic-team/portals-starter-angular
+[submodule "vue/community/ionic-team/portals"]
+	path = vue/community/ionic-team/portals
+	url = https://github.com/ionic-team/portals-starter-vue
+[submodule "vue-vite/community/ionic-team/portals"]
+	path = vue-vite/community/ionic-team/portals
+	url = https://github.com/ionic-team/portals-starter-vue-vite
+
+# The portals app for React does not
+# have any code that changes between Create React App
+# and Vite which is why we map to the same repo.
+[submodule "react-vite/community/ionic-team/portals"]
+	path = react-vite/community/ionic-team/portals
+	url = https://github.com/ionic-team/portals-starter-react

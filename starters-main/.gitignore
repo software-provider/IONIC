@@ -1,0 +1,16 @@
+.idea
+logs
+*.log
+npm-debug.log*
+
+.DS_Store
+
+node_modules/
+
+.env
+
+build/*
+!build/.gitkeep
+dist
+
+starter-checksum*
